@@ -203,7 +203,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
 ## Call for Papers
 
 <div style="text-align: justify">
-We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). All submitted posters will be shared at the workshop. 
+We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). 
 Topics of interests by this workshop include, but are not limited to:
 
   <ol>
