@@ -180,7 +180,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
 <div style="text-align: justify">
 
 
-Towards building a community of accessibility research in computer vision conferences, we introduce a computer vision challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. Examples from the simulation environment and challenge can be seen below. 
+Towards building a community of accessibility research in computer vision conferences, we introduce a computer vision challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. E
  </div>
 <div class = "center">
     <img alt="fig1" src="pics/fig1.svg" >
@@ -188,7 +188,7 @@ Towards building a community of accessibility research in computer vision confer
 <br> 
 <div class = "center">
     <img alt="fig2" src="pics/fig2.svg" >
-    <p>Instance segmentation challenge for perceiving people with mobility aids.</p>
+    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
 <br> 
 </div>
@@ -197,14 +197,17 @@ Towards building a community of accessibility research in computer vision confer
 ## Challenge
 
 <div style="text-align: justify">
-The challenge involves a synthetic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. The team with the top-performing submissions will be invited to give short talks during the workshop and will receive a financial award.
+The challenge involves a synthetic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
   
 <div class = "center">
     <img alt="fig2" src="pics/i1.jpg" >
-    <p>Fig. 1: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
-</div>
+    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
   
+  The team with the top-performing submissions will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
+  
+  Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
+  Testing dataset: Download (will be released in March)
   
 </div>
 
