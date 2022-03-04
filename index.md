@@ -205,7 +205,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
 </div>
   <br>
   The team with the top-performing submissions will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
-  <br>
+  <br><br>
   Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
   <br>
   Testing dataset: Download (will be released in March)
