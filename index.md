@@ -188,7 +188,7 @@ Towards building a community of accessibility research in computer vision confer
 <br> 
 <div class = "center">
     <img alt="fig2" src="pics/fig2.svg" >
-    <p>Fig. 1: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
+    <p>Instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
 <br> 
 </div>
