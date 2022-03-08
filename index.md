@@ -16,11 +16,79 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 # Invited Speakers
 <div style="display: flex">
-  Coming soon.
+  
+  <div style="width:22.5%">
+    <a href="https://www.inclusivemobility.com/">
+    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
+    Volkswagen Group of America, Principal Designer and Manager, Inclusive Mobility Team
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%">
+    <a href="https://www.linkedin.com/in/clemdwright">
+    <img alt="speaker2" src="pics/clem_wright.jfif" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.linkedin.com/in/clemdwright">Clem Wright</a><br>
+    Waymo, Product Manager for Accessibility
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%">
+    <a href="https://jonfroehlich.github.io/">
+    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
+    University of Washington, Researcher in Human-Computer Interaction and Accessibility
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://www.ski.org/users/james-coughlan">
+    <img alt="speaker4" src="pics/james_coughlan.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.ski.org/users/james-coughlan">James Coughlan </a><br>
+    Smith-Kettlewell Eye Research Institute, Researcher in Computer Vision Technologies for Blind and Visually Impaired
+  </div>
 </div>
- 
-<!-- 
-**Talk 1: Title** -->
+  
+<div style="display: flex">
+  <div style="width:2.5%">
+  </div>
+    <div style="width:22.5%">
+    <a href="https://adriengaidon.com/">
+    <img alt="speaker5" src="pics/adrien_gaidon.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://adriengaidon.com/">Adrien Gaidon </a><br>
+    Toyota Research Institute, Head of Machine Learning Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://pelilab.partners.org/">
+    <img alt="speaker6" src="pics/eli_peli.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://pelilab.partners.org/"> Eli Peli </a><br>
+    Harvard, Professor of Ophthalmology Harvard Medical School, Researcher in Disability, Rehabilitation, and Assistive Technologies for Low Vision
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://https://giarre.wordpress.com/">
+    <img alt="speaker7" src="pics/laura_giarré.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://giarre.wordpress.com/"> Laura Giarré </a><br>
+    University of Modena and Reggio Emilia, NTNU 
+  </div>
+</div>
 
 
 ## Schedule
