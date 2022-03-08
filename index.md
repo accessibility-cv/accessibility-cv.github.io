@@ -204,7 +204,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
     <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
   <br>
-  The team with the top-performing submissions will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
+  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and a <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
   <br><br>
   Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
   <br>
