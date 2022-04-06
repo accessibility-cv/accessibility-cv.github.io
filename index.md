@@ -325,11 +325,6 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
   To participate in the challenge and download the data please go to the <a href="https://eval.ai/web/challenges/challenge-page/1690/overview">challenge website.</a>
   
   
-  <-- Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
-  <br>
-  Testing dataset: Download (will be released in March)
-  !--> 
-  
 </div>
 
 ## Call for Papers
