@@ -332,7 +332,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
 <div style="text-align: justify">
 We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format, not including references). CVPR Overleaf template can be <a href="https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn">found here</a>. Latex/Word templates can be <a href="https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip">found here</a>. Please send your extended abstracts to <a href="mailto:mobility@bu.edu">mobility@bu.edu</a>.
 Topics of interests by this workshop include, but are not limited to:
-
+  <br>
   <ol>
   <li>AI for Accessibility</li>
   <li>Accessibility-Centered Computer Vision Tasks and Datasets</li>
