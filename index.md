@@ -363,7 +363,7 @@ Topics of interests by this workshop include, but are not limited to:
 
 ## Important workshop dates
 - Challenge release: <strong>February 27, 2022.</strong>
-- Workshop abstract submission deadline: <strong>June 10, 2022.</strong> (11:59PM EST, please submit extended abstracts via email to mobility@bu.edu)
+- Workshop abstract submission deadline: <strong>June 11, 2022.</strong> (11:59PM EST, please submit extended abstracts via email to mobility@bu.edu)
 - Challenge submission deadline: <strong>June 10, 2022.</strong> (11:59PM EST)
 - Abstract notification: <strong>June 13, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
