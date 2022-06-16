@@ -29,11 +29,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
 
   <div style="width:22.5%">
-    <a href="https://www.linkedin.com/in/clemdwright">
-    <img alt="speaker2" src="pics/clem_wright.jfif" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="http://www.cs.cmu.edu/~deva/">
+    <img alt="speaker2" src="pics/Ramanan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-    <a href="https://www.linkedin.com/in/clemdwright">Clem Wright</a><br>
-    Waymo, Product Manager for Accessibility
+    <a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a><br>
+    Carnegie Mellon University and Argo AI 
   </div>
   
   <div style="width:2.5%">
