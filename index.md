@@ -93,6 +93,14 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 ## Schedule
 
+| Time | Event | Duration |
+| ----- | ----- | ----- |
+| 08:30-08:35 | introduction/opening remarks | (5 min)
+
+| Time | Event | 
+| ----- | ----- |
+| 08:30-08:35 | introduction/opening remarks | 
+
 | Time (CDT) | Talk |
 | ----- | ----- | 
 | 13:00 | Opening Remarks
