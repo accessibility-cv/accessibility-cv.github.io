@@ -94,16 +94,13 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 ## Schedule
 
 
-| Time | Event | 
-| ----- | ----- |
-| 08:30-08:35 | introduction/opening remarks | 
 
 | Time | Talk |
 | ----- | ----- | 
 | 13:00-13:05 | Opening Remarks |
 | 13:05-13:30 | Deva Ramanan (In-Person) |
 | 13:35-14:00 | Chandrika Jayant, ``Inclusive Mobility at Volkswagen Group of America’’ |
-| 14:05-14:30 | Jon E. Froehlich / Michael Saugstad (University of Washington), ``Project Sidewalk: Crowd+AI Tools to Map and Assess Sidewalk Accessibility’’ |
+| 14:05-14:30 | Jon E. Froehlich / Michael Saugstad, ``Project Sidewalk: Crowd+AI Tools to Map and Assess Sidewalk Accessibility’’ |
 | 14:35-15:00 | Adrien Gaidon, ``Principle-centric AI’’  (In-Person) |
 | 15:00-15:15 | Challenge Results, 1-Minute Poster Highlights |
 | 15:15-15:35 | Poster Session #1 + Break |
