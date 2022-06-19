@@ -93,7 +93,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 ## Schedule
 
-| Time (CDT) | 
+| Time (CDT) | Talk |
 | ----- | ----- | 
 | 13:00 | Opening Remarks
 | 13:05-13:30 | Deva Ramanan (In-Person)
