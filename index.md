@@ -92,9 +92,9 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 
 ## Schedule
-<!-- 
-| Time | Event | Duration |
-| ----- | ----- | ----- |
+
+| Time | 
+| ----- | ----- | 
 | 08:30-08:35 | introduction/opening remarks | (5 min)
 | 08:35-09:00 | invited talk 1 | (25 min)
 | 09:00-09:30 | invited talk 2 | (30 min)
@@ -106,8 +106,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 | 11:45-12:15 | Challenge results/ oral presentation of the best papers | (30 min)
 | 12:15-12:45 | Panel discussion | (30 min)
 | 12:45-13:30 | posters/demo spotlights | (45 min)
- -->
-Full program will be coming soon with 30-min keynotes, panel discussion, challenge results and winners, and poster session.
 
 ## Organizers
 <div style="display: flex">
