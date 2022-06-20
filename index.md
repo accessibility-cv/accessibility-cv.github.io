@@ -109,6 +109,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 | 16:30-16:55 | James Coughlan |
 | 16:55-17:20 | Concluding Remarks + Poster Session #2 |
 
+<b>Accepted extended abstracts and posters:</b> <a href="https://drive.google.com/drive/folders/1QVva-x-qWklODQd8Pdp3bSYRlGT-lz_E?usp=sharing">https://drive.google.com/drive/folders/1QVva-x-qWklODQd8Pdp3bSYRlGT-lz_E?usp=sharing</a>
+
 ## Organizers
 <div style="display: flex">
   <div style="width:22.5%">
