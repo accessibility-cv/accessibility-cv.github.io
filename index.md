@@ -40,14 +40,6 @@ To be announced soon.
   <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
     University of Colorado Boulder
   </div>
-   
-  <div style="width:22.5%">
-    <a href="http://www.cs.cmu.edu/~kkitani/">
-    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
-    Carnegie Mellon University
-  </div>
        
   <div style="width:22.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
@@ -57,7 +49,6 @@ To be announced soon.
     Carnegie Mellon University and IBM
   </div>
 
-  <!--
   <div style="width:22.5%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
     <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -65,8 +56,15 @@ To be announced soon.
   <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">Hernisa Kacorri</a><br>
     University of Maryland
   </div>
--->
   
+    <div style="width:22.5%">
+    <a href="http://www.cs.cmu.edu/~kkitani/">
+    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
+    Carnegie Mellon University
+  </div>
+
 </div>
   
 
