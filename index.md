@@ -148,17 +148,6 @@ Towards building a community of accessibility research in computer vision confer
 
 ## Challenge Organization
 
-<div style="display: flex">
-  <div style="width:22.5%">
-    <a href="mailto:zhangjim@bu.edu">
-    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
-    </a><br>
-    <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
-    Boston University
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
    
   <div style="width:22.5%">
     <a href="mailto:sgzk@bu.edu">
@@ -168,16 +157,18 @@ Towards building a community of accessibility research in computer vision confer
     Boston University
   </div>
   
-  <div style="width:2.5%">
-  </div>
-   
+<div style="display: flex">
   <div style="width:22.5%">
-    <a href="mailto:mzheng27@bu.edu">
-    <img alt="Minglan Zheng" src="pics/minglan_zheng.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+    <a href="mailto:zhangjim@bu.edu">
+    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-  <a href="mailto:mzheng27@bu.edu">Minglan Zheng</a><br>
+    <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
     Boston University
   </div>
+  
+
+  
+  
   
   <div style="width:2.5%">
   </div>
@@ -245,11 +236,13 @@ Topics of interests by this workshop include, but are not limited to:
 </div>
 
 ## Important workshop dates
-- Challenge release: <strong>February 27, 2022.</strong>
-- Workshop abstract submission deadline: <strong>June 11, 2022.</strong> (11:59PM EST, please submit extended abstracts via email to mobility@bu.edu)
-- Challenge submission deadline: <strong>June 10, 2022.</strong> (11:59PM EST)
-- Abstract notification: <strong>June 13, 2022.</strong>
-- Challenge winner announcement: <strong>June 20, 2022.</strong>
+- Challenge release: <strong>TBD</strong>
+- Workshop abstract submission deadline: <strong>TBD</strong> 
+  <!--(11:59PM EST, please submit extended abstracts via email to mobility@bu.edu) --!>
+- Challenge submission deadline: <strong>TBD</strong> 
+<!--(11:59PM EST)--!>
+- Abstract notification: <strong>TBD</strong>
+- Challenge winner announcement: <strong>TBD</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
