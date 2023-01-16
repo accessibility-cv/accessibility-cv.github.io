@@ -40,6 +40,9 @@ To be announced soon.
   <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
     University of Colorado Boulder
   </div>
+  
+    <div style="width:2.5%">
+  </div>
        
   <div style="width:22.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
@@ -48,6 +51,9 @@ To be announced soon.
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
     Carnegie Mellon University and IBM
   </div>
+  
+    <div style="width:2.5%">
+  </div>
 
   <div style="width:22.5%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
@@ -55,6 +61,9 @@ To be announced soon.
     </a><br>
   <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">Hernisa Kacorri</a><br>
     University of Maryland
+  </div>
+  
+    <div style="width:2.5%">
   </div>
   
     <div style="width:22.5%">
@@ -146,6 +155,7 @@ Towards building a community of accessibility research in computer vision confer
     Boston University
   </div>
   
+  
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="mailto:zhangjim@bu.edu">
@@ -154,22 +164,12 @@ Towards building a community of accessibility research in computer vision confer
     <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
     Boston University
   </div>
-  
+
+</div>
 
   
-  
-  
-  <div style="width:2.5%">
-  </div>
-<!--    
-  <div style="width:22.5%">
-    <a href="http://ai.bu.edu/ksaenko.html#">
-    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
-   Boston University
-  </div> -->
-</div>
+
+
 
 
 ## Challenge
