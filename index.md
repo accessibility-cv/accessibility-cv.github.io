@@ -52,6 +52,7 @@ To be announced soon.
     Carnegie Mellon University
   </div>
   
+  <!--
   <div style="width:2.5%">
   </div>
      
@@ -78,7 +79,7 @@ To be announced soon.
   <div style="width:2.5%">
   </div>
   
-
+!-->
 
 <!-- ## Advising committee -->
 
