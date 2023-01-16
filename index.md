@@ -184,7 +184,7 @@ Towards building a community of accessibility research in computer vision confer
     <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
   <br>
-  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a> (We thank the US Department of Transportation and Intel for their support for these awards) 
+  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a> (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge and Intel for their support for these awards) 
   <br><br>
   
   To participate in the challenge and download the data please go to the <a href="https://eval.ai/web/challenges/challenge-page/1690/overview">challenge website.</a>
