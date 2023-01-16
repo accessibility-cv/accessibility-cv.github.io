@@ -15,101 +15,10 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
-<div style="display: flex">
-  
-  <div style="width:22.5%">
-    <a href="https://www.inclusivemobility.com/">
-    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
-    Volkswagen Group of America, Principal Designer and Manager, Inclusive Mobility Team
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-
-  <div style="width:22.5%">
-    <a href="http://www.cs.cmu.edu/~deva/">
-    <img alt="speaker2" src="pics/Ramanan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a><br>
-    Carnegie Mellon University and Argo AI 
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-
-  <div style="width:22.5%">
-    <a href="https://jonfroehlich.github.io/">
-    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
-    University of Washington, Researcher in Human-Computer Interaction and Accessibility
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-  <div style="width:22.5%">
-    <a href="https://www.ski.org/users/james-coughlan">
-    <img alt="speaker4" src="pics/james_coughlan.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://www.ski.org/users/james-coughlan">James Coughlan </a><br>
-    Smith-Kettlewell Eye Research Institute, Researcher in Computer Vision Technologies for Blind and Visually Impaired
-  </div>
-</div>
-  
-<div style="display: flex">
-  <div style="width:2.5%">
-  </div>
-    <div style="width:22.5%">
-    <a href="https://adriengaidon.com/">
-    <img alt="speaker5" src="pics/adrien_gaidon.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://adriengaidon.com/">Adrien Gaidon </a><br>
-    Toyota Research Institute, Head of Machine Learning Research
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-  <div style="width:22.5%">
-    <a href="https://pelilab.partners.org/">
-    <img alt="speaker6" src="pics/eli_peli.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://pelilab.partners.org/"> Eli Peli </a><br>
-    Harvard, Professor of Ophthalmology Harvard Medical School, Researcher in Disability, Rehabilitation, and Assistive Technologies for Low Vision
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-  <div style="width:22.5%">
-    <a href="https://https://giarre.wordpress.com/">
-    <img alt="speaker7" src="pics/laura_giarré.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://giarre.wordpress.com/"> Laura Giarré </a><br>
-    University of Modena and Reggio Emilia, NTNU 
-  </div>
-</div>
-
+To be announced soon. 
 
 ## Schedule
-
-
-
-| Time | Talk |
-| ----- | ----- | 
-| 13:00-13:05 | Opening Remarks |
-| 13:05-13:30 | Deva Ramanan, ``Recognizing rare classes for autonomous navigation'' (In-Person) | 
-| 13:35-14:00 | Chandrika Jayant, ``Inclusive Mobility at Volkswagen Group of America’’ |
-| 14:05-14:30 | Jon E. Froehlich / Michael Saugstad, ``Project Sidewalk: Crowd+AI Tools to Map and Assess Sidewalk Accessibility’’ |
-| 14:35-15:00 | Adrien Gaidon, ``Principle-centric AI’’  (In-Person) |
-| 15:00-15:15 | Challenge Results, 1-Minute Poster Highlights |
-| 15:15-15:35 | Poster Session #1 + Break |
-| 15:35-15:55 | Laura Giarré, ``Accessibility and Independent Navigation for People with Visual Impairments'’ |
-| 16:00-16:25 | Eli Peli, ``Pedestrian Collision with Homonymous Hemianopia’’ |
-| 16:30-16:55 | James Coughlan |
-| 16:55-17:20 | Concluding Remarks + Poster Session #2 |
-
-<b>Accepted extended abstracts and posters:</b> <a href="https://drive.google.com/drive/folders/1QVva-x-qWklODQd8Pdp3bSYRlGT-lz_E?usp=sharing">https://drive.google.com/drive/folders/1QVva-x-qWklODQd8Pdp3bSYRlGT-lz_E?usp=sharing</a>
+To be announced soon. 
 
 ## Organizers
 <div style="display: flex">
@@ -145,28 +54,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
   <div style="width:2.5%">
   </div>
-   
-  <div style="width:22.5%">
-    <a href="http://ai.bu.edu/ksaenko.html#">
-    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
-   Boston University
-  </div>
-</div>
-
-<div style="display: flex">
-  <div style="width:22.5%">
-    <a href="http://www.cvlibs.net/">
-    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="http://www.cvlibs.net/">Andreas Geiger</a><br>
-    University of Tübingen and the MPI for Intelligent Systems
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-  
+     
   <div style="width:22.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
     <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -179,24 +67,17 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   
   <div style="width:22.5%">
-    <a href="https://jonfroehlich.github.io/">
-    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
+    <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
-    University of Washington
+  <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">Hernisa Kacorri</a><br>
+    University of Maryland
   </div>
+  
   
   <div style="width:2.5%">
   </div>
   
-  <div style="width:22.5%">
-    <a href="https://www.inclusivemobility.com/">
-    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
-    Volkswagen Group of America
-  </div>
-</div>
 
 
 <!-- ## Advising committee -->
