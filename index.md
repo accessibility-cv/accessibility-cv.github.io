@@ -227,9 +227,8 @@ Topics of interests by this workshop include, but are not limited to:
 ## Important workshop dates
 - Challenge release: <strong>TBD</strong>
 - Workshop abstract submission deadline: <strong>TBD</strong> 
-  <!--(11:59PM EST, please submit extended abstracts via email to mobility@bu.edu) --!>
+  <!--(11:59PM EST, please submit extended abstracts via email to mobility@bu.edu) -->
 - Challenge submission deadline: <strong>TBD</strong> 
-<!--(11:59PM EST)--!>
 - Abstract notification: <strong>TBD</strong>
 - Challenge winner announcement: <strong>TBD</strong>
 
