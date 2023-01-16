@@ -146,7 +146,7 @@ Towards building a community of accessibility research in computer vision confer
 
 ## Challenge Organization
 
-   
+<div style="display: flex">
   <div style="width:22.5%">
     <a href="mailto:sgzk@bu.edu">
     <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
@@ -154,7 +154,6 @@ Towards building a community of accessibility research in computer vision confer
   <a href="mailto:sgzk@bu.edu">Zhongkai Shangguan</a><br>
     Boston University
   </div>
-  
   
 <div style="display: flex">
   <div style="width:22.5%">
