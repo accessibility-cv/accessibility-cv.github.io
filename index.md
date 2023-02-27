@@ -227,7 +227,7 @@ Topics of interests by this workshop include, but are not limited to:
 </div>
 
 ## Important workshop dates
-- Challenge release: <strong>3/18/2023</strong>
+- Updated challenge release: <strong>3/18/2023</strong>
 - Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Challenge submission deadline: <strong>6/11/2023</strong> 
 - Abstract notification: <strong>6/13/2023</strong>
