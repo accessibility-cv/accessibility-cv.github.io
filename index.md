@@ -227,12 +227,11 @@ Topics of interests by this workshop include, but are not limited to:
 </div>
 
 ## Important workshop dates
-- Challenge release: <strong>TBD</strong>
-- Workshop abstract submission deadline: <strong>TBD</strong> 
-  <!--(11:59PM EST, please submit extended abstracts via email to mobility@bu.edu) -->
-- Challenge submission deadline: <strong>TBD</strong> 
-- Abstract notification: <strong>TBD</strong>
-- Challenge winner announcement: <strong>TBD</strong>
+- Challenge release: <strong>3/18/2023</strong>
+- Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
+- Challenge submission deadline: <strong>6/11/2023</strong> 
+- Abstract notification: <strong>6/13/2023</strong>
+- Challenge winner announcement: <strong>6/18/2023</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
