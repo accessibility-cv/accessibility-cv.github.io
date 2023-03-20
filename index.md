@@ -177,17 +177,33 @@ Towards building a community of accessibility research in computer vision confer
 
 <div style="text-align: justify">
   
-<strong>An updated challenge for 2023 will be posted shortly</strong>, building on our prior workshop's synthetic instance segmentation benchmark with mobility aids (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
+  <strong>As an updated challenge for 2023, we release the following:</strong>
+  
+  <ol>
+  <li>Training, validation, and testing data can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
+  </ol>
+  
+  <strong>Note that this year annotations include both instance segmentation and pose estimation challenge. Moreover, we provide access to temporal image data for each image.</strong>
+  
+  The challenge builds on our prior workshop's synthetic instance segmentation benchmark with mobility aids (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
   
 <div class = "center">
     <img alt="fig2" src="pics/i1.jpg" >
     <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
+  <div class = "center">
+    <img alt="fig2" src="pics/pose_xworld.png" >
+    <p>An example from the pose challenge added in 2023.</p>
+</div>
   <br>
   The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a> (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge and Intel for their support for these awards) 
   <br><br>
   
-  To participate in the challenge and download the data please go to the <a href="https://eval.ai/web/challenges/challenge-page/1690/overview">challenge website.</a>
+ 
+<!--   Previous results from the 2022 Challenge can be seen at the <a href="https://eval.ai/web/challenges/challenge-page/1690/overview">challenge website.</a>
+  Please note that the instance segmentation dataset has been re-generated and the 2022 challenge is obsolete.  -->
+  
+  
   
   
 </div>
