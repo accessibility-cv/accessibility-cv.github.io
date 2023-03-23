@@ -183,6 +183,10 @@ Towards building a community of accessibility research in computer vision confer
   <li>Training, validation, and testing data, which can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
   </ol>
   
+  More info on data and submission can be found in the eval.ai <a href="https://eval.ai/web/challenges/challenge-page/1998/overview">challenge website for instance segmentation</a> and <a href="https://eval.ai/web/challenges/challenge-page/2001/overview">for pose estimation.</a>
+  
+  
+  
   <strong>The data this year includes both instance segmentation and pose estimation challenge. Moreover, we provide access to temporal history and LiDAR data for each image.</strong>
   
   <br>
