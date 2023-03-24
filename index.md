@@ -181,13 +181,10 @@ Towards building a community of accessibility research in computer vision confer
   
   <ol>
   <li>Training, validation, and testing data, which can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
+    <li>An evaluation server <a href="https://eval.ai/web/challenges/challenge-page/1998/overview">for instance segmentation</a> and <a href="https://eval.ai/web/challenges/challenge-page/2001/overview">for pose estimation.</a>
   </ol>
   
-  More info on data and submission can be found in the eval.ai <a href="https://eval.ai/web/challenges/challenge-page/1998/overview">challenge website for instance segmentation</a> and <a href="https://eval.ai/web/challenges/challenge-page/2001/overview">for pose estimation.</a>
-  
-  
-  
-  <strong>The data this year includes both instance segmentation and pose estimation challenge. Moreover, we provide access to temporal history and LiDAR data for each image.</strong>
+  More info on data and submission can be found in the eval.ai links above. Note that the data this year includes both instance segmentation and pose estimation challenge. Moreover, we provide access to temporal history and LiDAR data for each image.
   
   <br>
   The challenge builds on our prior workshop's synthetic instance segmentation benchmark with mobility aids (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
