@@ -15,7 +15,39 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
-To be announced soon. 
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://cvhci.anthropomatik.kit.edu/">
+    <img alt="Rainer Stiefelhagen" src="pics/rainer.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://cvhci.anthropomatik.kit.edu/">Rainer Stiefelhagen</a><br>
+    Karlsruhe Institute of Technology
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.seleste.co/">
+    <img alt="Smit Patel" src="pics/smit.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.seleste.co/">Danna Gurari</a><br>
+    University of Victoria & Seleste Co-Founder
+  </div>
+  
+    <div style="width:2.5%">
+  </div>
+       
+  <div style="width:22.5%">
+    <a href="https://make4all.org/portfolio/jennifer-mankoff/">
+    <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://make4all.org/portfolio/jennifer-mankoff/">Jennifer Mankoff</a><br>
+    University of Washington
+  </div>
+  
+
+</div>
 
 ## Schedule
 To be announced soon. 
