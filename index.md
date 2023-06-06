@@ -46,6 +46,14 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     University of Washington
   </div>
   
+  <div style="width:22.5%">
+    <a href="https://www.cs.washington.edu/people/faculty/ladner">
+    <img alt="Richard Ladner" src="pics/ladner4.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.washington.edu/people/faculty/ladner/">Richard Ladner</a><br>
+    University of Washington
+  </div>
+  
 
 </div>
 
