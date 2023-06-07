@@ -27,6 +27,16 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:2.5%">
   </div>
    
+   <div style="width:22.5%">
+    <a href="https://make4all.org/portfolio/jennifer-mankoff/">
+    <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://make4all.org/portfolio/jennifer-mankoff/">Jennifer Mankoff</a><br>
+    University of Washington
+  </div>
+  
+   <div style="width:2.5%">
+  </div>
   <div style="width:22.5%">
     <a href="https://www.seleste.co/">
     <img alt="Smit Patel" src="pics/smit.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -37,17 +47,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
     <div style="width:2.5%">
   </div>
-       
-  <div style="width:22.5%">
-    <a href="https://make4all.org/portfolio/jennifer-mankoff/">
-    <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://make4all.org/portfolio/jennifer-mankoff/">Jennifer Mankoff</a><br>
-    University of Washington
-  </div>
-  
-   <div style="width:2.5%">
-  </div>
+      
+ 
   
   <div style="width:22.5%">
     <a href="https://www.cs.washington.edu/people/faculty/ladner">
