@@ -62,7 +62,10 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 ## Schedule
-To be announced soon. 
+To be announced soon.
+
+## Abstract
+
 <table>
   <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</a></td></tr>
   <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">Non-Hierarchical Transformers for Pedestrian Segmentation</a></td></tr>
