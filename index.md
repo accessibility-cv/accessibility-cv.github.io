@@ -64,18 +64,18 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 ## Schedule
 To be announced soon. 
 <table>
-  <tr><td><a href="https://www.cs.washington.edu/people/faculty/ladner/">Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</a></td></tr>
-  <tr><td>Non-Hierarchical Transformers for Pedestrian Segmentation</td></tr>
-  <tr><td>MultiHead Attention Mask-RCNN for AVA Instance Segmentation</td></tr>
-  <tr><td>The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</td></tr>
-  <tr><td>An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge</td></tr>
-  <tr><td>A dataset of human actions for abnormal event recognition in assistive robotic environments</td></tr>
-  <tr><td>Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows</td></tr>
-  <tr><td>Case Study of GAI for Accessible Design and Prototyping</td></tr>
-  <tr><td>Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</td></tr>
-  <tr><td>Slovo: Russian Sign Language Dataset</td></tr>
-  <tr><td>X-World: Accessibility, Vision, and Autonomy Meet</td></tr>
-  <tr><td>ASSISTER: Assistive Navigation via Conditional Instruction Generation</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">Non-Hierarchical Transformers for Pedestrian Segmentation</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">MultiHead Attention Mask-RCNN for AVA Instance Segmentation</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1B9bricf2dPqI35_qk_mhqZ3qPDNqdpCv/view?usp=sharing">The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1s8K3HF803geK9lotHYSjPqZXIHg8MRod/view?usp=sharing">An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1EBZb95ZcRye2sXro2xwsRphplaH9F6bm/view?usp=sharing">A dataset of human actions for abnormal event recognition in assistive robotic environments</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1RTAlWiD1eOru5IyTp_ojBIwlngoJv1oZ/view?usp=sharing">Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1i7oUOQyJHXhya4BpC0bMdnaHK_IX7qkf/view?usp=sharing">Case Study of GAI for Accessible Design and Prototyping</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">Slovo: Russian Sign Language Dataset</a></td></tr>
+  <tr><td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">X-World: Accessibility, Vision, and Autonomy Meet</a></td></tr>
+  <tr><td><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">ASSISTER: Assistive Navigation via Conditional Instruction Generation</a></td></tr>
 </table>
 
 
