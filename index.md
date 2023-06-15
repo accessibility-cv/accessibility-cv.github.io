@@ -64,18 +64,18 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 ## Schedule
 To be announced soon. 
 <table>
-  <tr>Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</tr>
-  <tr>Non-Hierarchical Transformers for Pedestrian Segmentation</tr>
-  <tr>MultiHead Attention Mask-RCNN for AVA Instance Segmentation</tr>
-  <tr>The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</tr>
-  <tr>An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge</tr>
-  <tr>A dataset of human actions for abnormal event recognition in assistive robotic environments</tr>
-  <tr>Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows</tr>
-  <tr>Case Study of GAI for Accessible Design and Prototyping</tr>
-  <tr>Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</tr>
-  <tr>Slovo: Russian Sign Language Dataset</tr>
-  <tr>X-World: Accessibility, Vision, and Autonomy Meet</tr>
-  <tr>ASSISTER: Assistive Navigation via Conditional Instruction Generation</tr>
+  <tr><td>Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</td></tr>
+  <tr><td>Non-Hierarchical Transformers for Pedestrian Segmentation</td></tr>
+  <tr><td>MultiHead Attention Mask-RCNN for AVA Instance Segmentation</td></tr>
+  <tr><td>The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</td></tr>
+  <tr><td>An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge</td></tr>
+  <tr><td>A dataset of human actions for abnormal event recognition in assistive robotic environments</td></tr>
+  <tr><td>Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows</td></tr>
+  <tr><td>Case Study of GAI for Accessible Design and Prototyping</td></tr>
+  <tr><td>Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</td></tr>
+  <tr><td>Slovo: Russian Sign Language Dataset</td></tr>
+  <tr><td>X-World: Accessibility, Vision, and Autonomy Meet</td></tr>
+  <tr><td>ASSISTER: Assistive Navigation via Conditional Instruction Generation</td></tr>
 </table>
 
 
