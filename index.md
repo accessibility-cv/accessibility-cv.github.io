@@ -63,6 +63,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 ## Schedule
 To be announced soon. 
+<table>
+  <tr>Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</tr>
+  
+</table>
+
 
 ## Organizers
 <div style="display: flex">
