@@ -64,7 +64,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 ## Schedule
 To be announced soon. 
 <table>
-  <tr><td>Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</td></tr>
+  <tr><td href="https://www.cs.washington.edu/people/faculty/ladner/">Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</td></tr>
   <tr><td>Non-Hierarchical Transformers for Pedestrian Segmentation</td></tr>
   <tr><td>MultiHead Attention Mask-RCNN for AVA Instance Segmentation</td></tr>
   <tr><td>The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</td></tr>
