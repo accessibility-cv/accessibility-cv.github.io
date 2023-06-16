@@ -78,7 +78,7 @@ To be announced soon.
   <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">"Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration"</a>. Drake Moore</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">"Slovo: Russian Sign Language Dataset"</a>. Alexander Kapitanov</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">"X-World: Accessibility, Vision, and Autonomy Meet"</a>, Jimuyang Zhang<sup>*</sup>, Minglan Zheng<sup>*</sup>, Matthew Boyd, Eshed Ohn-Bar</td></tr>
-  <tr><td><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">ASSISTER: Assistive Navigation via Conditional Instruction Generation</a>. Zanming Huang<sup>*</sup>, Zhongkai Shangguan<sup>*</sup>, Jimuyang Zhang, Gilad Bar, Matthew Boyd, and Eshed Ohn-Bar</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1eCd7wQrKpItxhDEUIjrJkmgtFAS5VZrB/view?usp=sharing">"ASSISTER: Assistive Navigation via Conditional Instruction Generation"</a>. Zanming Huang<sup>*</sup>, Zhongkai Shangguan<sup>*</sup>, Jimuyang Zhang, Gilad Bar, Matthew Boyd, and Eshed Ohn-Bar</td></tr>
 </table>
 
 
