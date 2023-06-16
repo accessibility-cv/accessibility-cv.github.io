@@ -68,17 +68,17 @@ To be announced soon.
 
 <table>
   <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">"Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation"</a>. Runze Zhang, Xiaochuan Li, Baoyu Fan, Zhenhua Guo, Yaqian Zhao, Rengang Li</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">Non-Hierarchical Transformers for Pedestrian Segmentation</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">MultiHead Attention Mask-RCNN for AVA Instance Segmentation</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1B9bricf2dPqI35_qk_mhqZ3qPDNqdpCv/view?usp=sharing">The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1s8K3HF803geK9lotHYSjPqZXIHg8MRod/view?usp=sharing">An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1EBZb95ZcRye2sXro2xwsRphplaH9F6bm/view?usp=sharing">A dataset of human actions for abnormal event recognition in assistive robotic environments</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1RTAlWiD1eOru5IyTp_ojBIwlngoJv1oZ/view?usp=sharing">Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1i7oUOQyJHXhya4BpC0bMdnaHK_IX7qkf/view?usp=sharing">Case Study of GAI for Accessible Design and Prototyping</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">Slovo: Russian Sign Language Dataset</a></td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">X-World: Accessibility, Vision, and Autonomy Meet</a></td></tr>
-  <tr><td><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">ASSISTER: Assistive Navigation via Conditional Instruction Generation</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">"Non-Hierarchical Transformers for Pedestrian Segmentation"</a>. Amani Kiruga, Xi Peng</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">"MultiHead Attention Mask-RCNN for AVA Instance Segmentation"</a>. Aarti Balana</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1B9bricf2dPqI35_qk_mhqZ3qPDNqdpCv/view?usp=sharing">"The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track"</a>. Chenglong Yi, Fuxing Leng</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1s8K3HF803geK9lotHYSjPqZXIHg8MRod/view?usp=sharing">"An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge"</a>. Jiajun Fu, Shaojie Zhang, Jianqin Yin</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1EBZb95ZcRye2sXro2xwsRphplaH9F6bm/view?usp=sharing">"A dataset of human actions for abnormal event recognition in assistive robotic environments"</a>. Catherine Huyghe, Nacim Ihaddadene</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1RTAlWiD1eOru5IyTp_ojBIwlngoJv1oZ/view?usp=sharing">"Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows"</a>. Masaki Kuribayashi, Hironobu Takagi, Chieko Asakawa, Shigeo Morishima</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1i7oUOQyJHXhya4BpC0bMdnaHK_IX7qkf/view?usp=sharing">"Case Study of GAI for Accessible Design and Prototyping"</a>. Kate Glazko, Jennifer Mankoff</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">"Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration"</a>. Drake Moore</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">"Slovo: Russian Sign Language Dataset"</a>. Alexander Kapitanov</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">"X-World: Accessibility, Vision, and Autonomy Meet"</a>, Jimuyang Zhang<sup>*</sup>, Minglan Zheng<sup>*</sup>, Matthew Boyd, Eshed Ohn-Bar</td></tr>
+  <tr><td><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">ASSISTER: Assistive Navigation via Conditional Instruction Generation</a>. Zanming Huang<sup>*</sup>, Zhongkai Shangguan<sup>*</sup>, Jimuyang Zhang, Gilad Bar, Matthew Boyd, and Eshed Ohn-Bar</td></tr>
 </table>
 
 
