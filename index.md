@@ -64,10 +64,10 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 ## Schedule
 To be announced soon.
 
-## Abstract
+## Abstracts
 
 <table>
-  <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">"Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation"</a>. Runze Zhang, Xiaochuan Li, Baoyu Fan, Zhenhua Guo, Yaqian Zhao, Rengang Li</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">Non-Hierarchical Transformers for Pedestrian Segmentation</a></td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">MultiHead Attention Mask-RCNN for AVA Instance Segmentation</a></td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1B9bricf2dPqI35_qk_mhqZ3qPDNqdpCv/view?usp=sharing">The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track</a></td></tr>
@@ -77,7 +77,7 @@ To be announced soon.
   <tr><td><a href="https://drive.google.com/file/d/1i7oUOQyJHXhya4BpC0bMdnaHK_IX7qkf/view?usp=sharing">Case Study of GAI for Accessible Design and Prototyping</a></td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration</a></td></tr>
   <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">Slovo: Russian Sign Language Dataset</a></td></tr>
-  <tr><td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">X-World: Accessibility, Vision, and Autonomy Meet</a></td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">X-World: Accessibility, Vision, and Autonomy Meet</a></td></tr>
   <tr><td><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">ASSISTER: Assistive Navigation via Conditional Instruction Generation</a></td></tr>
 </table>
 
