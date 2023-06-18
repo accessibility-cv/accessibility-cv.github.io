@@ -62,7 +62,9 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 ## Schedule
-<a href="https://docs.google.com/document/d/1_OBM9w9kuATRbHYhmxA39J3TGgupMzWEwAI5_bHLTbc/edit?usp=sharing">"Agenda for CVPR2023 AVA Workshop"</a>. 
+<table>
+  <tr><td>Times (PST)</td><td> </td></tr>
+</table>
   
 ## Abstracts
 
