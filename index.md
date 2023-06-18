@@ -72,7 +72,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td>14:40-15:00</td><td>Poster Highlights</td></tr>
   <tr><td>15:05-15:45</td><td>Hybrid Poster Session (first 20 minutes) + Coffee Break (last 20 minutes)</td></tr>
   <tr><td>15:45-16:15</td><td>Smit Patel</td></tr>
-  <tr><td>16:15-16:45</td><td>Richard Ladner (UoW), ``Including Accessibility and Disability in an Undergraduate CV Course’’</td></tr>
+  <tr><td>16:15-16:45</td><td>Richard Ladner (UoW), "Including Accessibility and Disability in an Undergraduate CV Course"</td></tr>
   <tr><td>16:45-17:30</td><td>Concluding Remarks, Poster Session #2</td></tr>
 </table>
   
