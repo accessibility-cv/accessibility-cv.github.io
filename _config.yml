@@ -11,5 +11,6 @@ buttons:
   Organizers: './index.html#organizers'
   Call for Papers: './index.html#call-for-papers'
   Challenge: './index.html#challenge'
+  Important Dates: './index.html#important-workshop-dates'
 github:
   is_project_page: false
