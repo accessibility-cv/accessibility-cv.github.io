@@ -178,7 +178,7 @@ Toward building a community of accessibility research in computer vision confere
   
   <div style="width:22.5%">
     <a href="mailto:hjkim37@bu.edu">
-    <img alt="Hee-Jae Kim" src="pics/jimuyang_zhang.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+    <img alt="Hee-Jae Kim" src="pics/HeeJae_Kim.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
     <a href="mailto:hjkim37@bu.edu">Hee-Jae Kim</a><br>
     Boston University
