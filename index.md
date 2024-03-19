@@ -136,7 +136,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 <div style="text-align: justify">
 
 
-Towards building a community of accessibility research in computer vision conferences, we introduce a computer vision challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. E
+Toward building a community of accessibility research in computer vision conferences, we introduce a computer vision challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. E
  </div>
 <div class = "center">
     <img alt="fig1" src="pics/fig1.svg" >
@@ -176,15 +176,12 @@ Towards building a community of accessibility research in computer vision confer
 </div>
 
   
-
-
-
-
 ## Challenge
 
 <div style="text-align: justify">
   
-  <strong>As an updated challenge for 2023, we release the following:</strong>
+  <strong>As an updated challenge for 2024, we release the following:</strong>
+  <a href="./index_2023">Pase Venue</a><br>
   
   <ol>
   <li>Training, validation, and testing data, which can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
