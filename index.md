@@ -181,7 +181,6 @@ Toward building a community of accessibility research in computer vision confere
 <div style="text-align: justify">
   
   <strong>As an updated challenge for 2024, we release the following:</strong>
-  <a href="./index_2023">Pase Venue</a><br>
   
   <ol>
   <li>Training, validation, and testing data, which can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
@@ -245,12 +244,14 @@ Topics of interests by this workshop include, but are not limited to:
 </div>
 
 ## Important workshop dates
-- Updated challenge release: <strong>3/18/2023</strong>
-- Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
-- Challenge submission deadline: <strong>6/11/2023</strong> 
-- Abstract notification: <strong>6/13/2023</strong>
-- Challenge winner announcement: <strong>6/18/2023</strong>
+- Updated challenge release: <strong>3/18/2024</strong>
+- Workshop abstract submission deadline: <strong>6/11/2024</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
+- Challenge submission deadline: <strong>6/11/2024</strong> 
+- Abstract notification: <strong>6/13/2024</strong>
+- Challenge winner announcement: <strong>6/18/2024</strong>
 
+## Previous workshops
+<a href="./index_2023">2nd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2023</a><br>
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
 
