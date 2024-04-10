@@ -62,6 +62,9 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <div style="width:2.5%">
   </div>
 
+</div>
+
+<div style="display: flex">
   <div style="width:22.5%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
     <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -80,6 +83,18 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
     Carnegie Mellon University
   </div>
+
+  <div style="width:2.5%">
+  </div>
+  
+    <div style="width:22.5%">
+    <a href="https://make4all.org/">
+    <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://make4all.org/">Jennifer Mankoff</a><br>
+    University of Washington
+  </div>
+
 
 </div>
   
