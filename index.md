@@ -37,7 +37,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     Boston University
   </div>
   
-  <div style="width:2.5%">
+  <div style="width:7.5%">
   </div>
    
   <div style="width:22.5%">
@@ -48,7 +48,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     University of Colorado Boulder
   </div>
   
-    <div style="width:2.5%">
+    <div style="width:7.5%">
   </div>
        
   <div style="width:22.5%">
@@ -73,7 +73,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     University of Maryland
   </div>
   
-    <div style="width:2.5%">
+    <div style="width:7.5%">
   </div>
   
     <div style="width:22.5%">
@@ -84,7 +84,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     Carnegie Mellon University
   </div>
 
-  <div style="width:2.5%">
+  <div style="width:7.5%">
   </div>
   
     <div style="width:22.5%">
