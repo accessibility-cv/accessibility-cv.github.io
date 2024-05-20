@@ -31,7 +31,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Dan Parker" src="pics/dan-parker.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://theblindmachinist.com/about/">Dan Parker</a><br>
-    The World’s Fastest Blind Racecar Driver
+    Blind Machinist, World’s Fastest Blind Man
   </div>
 
   <div style="width:7.5%">
