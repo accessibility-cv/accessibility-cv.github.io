@@ -16,7 +16,15 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 # Invited Speakers
 <div style="display: flex">
-    <strong>Coming soon ...</strong>
+    <div style="width:22.5%">
+    <a href="https://eshed1.github.io/">
+    <img alt="Ed Cutrell" src="pics/EdCutrell.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.microsoft.com/en-us/research/people/cutrell/">Ed Cutrell</a><br>
+    Microsoft Research
+  </div>
+
+  
 </div>
 
 ## Schedule
