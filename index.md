@@ -333,4 +333,6 @@ Topics of interests by this workshop include, but are not limited to:
       
     </div>
   </div--> 
-
+  
+## Acknowledgements 
+<img alt="fig2" src="pics/1361912915-sigACCESSlogo" > Supported by <a href="https://www.sigaccess.org/">Special Interest Group on Accessible Computing</a>.
