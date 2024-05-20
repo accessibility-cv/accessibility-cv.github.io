@@ -42,7 +42,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Geoff Peddle" src="pics/Geoff_Peddle.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://www.linkedin.com/in/geoffrey-peddle-40aa14/?originalSubdomain=ca">Geoff Peddle</a><br>
-    CTO at Tealbook
+    Aira CTO
   </div>
 
   
