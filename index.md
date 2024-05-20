@@ -17,13 +17,35 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 # Invited Speakers
 <div style="display: flex">
     <div style="width:22.5%">
-    <a href="https://eshed1.github.io/">
+    <a href="https://www.microsoft.com/en-us/research/people/cutrell/">
     <img alt="Ed Cutrell" src="pics/EdCutrell.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="https://www.microsoft.com/en-us/research/people/cutrell/">Ed Cutrell</a><br>
     Microsoft Research
   </div>
+  <div style="width:7.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://theblindmachinist.com/about/">
+    <img alt="Dan Parker" src="pics/dan-parker.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://theblindmachinist.com/about/">Dan Parker</a><br>
+    The World’s Fastest Blind Racecar Driver
+  </div>
 
+  <div style="width:7.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.linkedin.com/in/geoffrey-peddle-40aa14/?originalSubdomain=ca">
+    <img alt="Geoff Peddle" src="pics/Geoff_Peddle.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.linkedin.com/in/geoffrey-peddle-40aa14/?originalSubdomain=ca">Geoff Peddle</a><br>
+    CTO at Tealbook
+  </div>
+
+  
   
 </div>
 
