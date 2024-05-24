@@ -257,7 +257,7 @@ Toward building a community of accessibility research in computer vision confere
     <p>An example from the pose challenge added in 2023.</p>
 </div>
   <br>
-  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a> (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge and Intel for their support for these awards) 
+  The team with the top-performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> for first place and <b>$500</b> for second place. (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge, and Intel for their support for these awards) 
   <br><br>
 </div>
 
