@@ -257,7 +257,7 @@ Toward building a community of accessibility research in computer vision confere
     <p>An example from the pose challenge added in 2023.</p>
 </div>
   <br>
-  The team with the top-performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> for first place and <b>$500</b> for second place. (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge, and Intel for their support for these awards) 
+  The team with the top-performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> for first place and <b>$300</b> for second place. (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge, and Intel for their support for these awards) 
   <br><br>
 </div>
 
@@ -301,10 +301,10 @@ Topics of interests by this workshop include, but are not limited to:
 
 ## Important workshop dates
 - Updated challenge release: <strong>3/18/2024</strong>
-- Workshop abstract submission deadline: <strong>6/11/2024</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
-- Challenge submission deadline: <strong>6/11/2024</strong> 
-- Abstract notification: <strong>6/13/2024</strong>
-- Challenge winner announcement: <strong>6/18/2024</strong>
+- Workshop abstract submission deadline: <strong>6/14/2024</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
+- Challenge submission deadline: <strong>6/14/2024</strong> 
+- Abstract notification: <strong>6/15/2024</strong>
+- Challenge winner announcement: <strong>6/15/2024</strong>
 
 ## Previous workshops
 <a href="./index_2023">2nd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2023</a><br>
