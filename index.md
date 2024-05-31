@@ -57,7 +57,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   <div style="width:7.5%">
   </div>
-</div>
+
 
   
   
