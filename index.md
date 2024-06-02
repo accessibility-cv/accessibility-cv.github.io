@@ -215,7 +215,7 @@ Toward building a community of accessibility research in computer vision confere
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="mailto:sgzk@bu.edu">
-    <img class="imgClass1" alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+      <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="mailto:sgzk@bu.edu">Zhongkai Shangguan</a><br>
     Boston University
@@ -226,7 +226,7 @@ Toward building a community of accessibility research in computer vision confere
   
   <div style="width:22.5%">
     <a href="mailto:zhangjim@bu.edu">
-    <img class="imgClass1" alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+      <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
     Boston University
@@ -237,7 +237,7 @@ Toward building a community of accessibility research in computer vision confere
   
   <div style="width:22.5%">
     <a href="mailto:hjkim37@bu.edu">
-    <img class="imgClass1" alt="Hee-Jae Kim" src="pics/HeeJae_Kim.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 98% ">
+      <img alt="Hee-Jae Kim" src="pics/HeeJae_Kim.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="mailto:hjkim37@bu.edu">Hee-Jae Kim</a><br>
     Boston University
