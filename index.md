@@ -221,7 +221,7 @@ Toward building a community of accessibility research in computer vision confere
     Boston University
   </div>
   
-    <div style="width:2.5%">
+    <div style="width:7.5%">
   </div>
   
   <div style="width:22.5%">
@@ -232,7 +232,7 @@ Toward building a community of accessibility research in computer vision confere
     Boston University
   </div>
 
-  <div style="width:2.5%">
+  <div style="width:7.5%">
   </div>
   
   <div style="width:22.5%">
@@ -242,6 +242,7 @@ Toward building a community of accessibility research in computer vision confere
     <a href="mailto:hjkim37@bu.edu">Hee-Jae Kim</a><br>
     Boston University
   </div>
+  <div style="width:2.5%"> </div>
 
 </div>
 
