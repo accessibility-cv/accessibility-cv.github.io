@@ -75,7 +75,19 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 ## Schedule
-<strong>Coming soon ...</strong>
+<table>
+  <tr><td>Times (PDT)</td><td> </td></tr>
+  <tr><td>13:00-13:35</td><td>Welcome Remarks</td></tr>
+  <tr><td>13:35-14:05</td><td>Ed Cutrell, Interactive AI for Blind and Low Vision Users</td></tr>
+  <tr><td>14:05-14:35</td><td>Geoffrey Peddle, AIRA:  A company's journey towards AI Remote Assistance</td></tr>
+  <tr><td>14:35-14:50</td><td>Challenge Overview and Results</td></tr>
+  <tr><td>14:50-15:10</td><td>Challenge Winner Talks</td></tr>
+  <tr><td>15:10-15:40</td><td>Poster Highlights + Coffee Break</td></tr>
+  <tr><td>15:40-16:10</td><td>Dan Parker</td></tr>
+  <tr><td>16:10-16:40</td><td>Saqib Shaikh</td></tr>
+  <tr><td>16:40-17:10</td><td>Venkatesh Potluri</td></tr>
+  <tr><td>17:10-17:20</td><td>Panel + Concluding Remarks</td></tr>
+</table>
   
 ## Abstracts
 <strong>Coming soon ...</strong>
