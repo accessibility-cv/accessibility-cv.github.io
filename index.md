@@ -58,8 +58,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
 
-  <div style="display: flex">
-    <div style="width:22.5%">
+  <div style="width:22.5%">
     <a href="https://venkateshpotluri.me/">
     <img alt="Venkatesh Potluri" src="pics/venkatesh_pic.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -68,10 +67,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   <div style="width:7.5%">
   </div>
-
-
-  
-  
 </div>
 
 ## Schedule
