@@ -63,7 +63,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Venkatesh Potluri" src="pics/venkatesh_pic.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="https://venkateshpotluri.me/">Venkatesh Potluri</a><br>
-    Ph.D. Candidate at the University of Washington, Apple Scholar, Google Lime Scholar
+    Ph.D. Candidate at the University of Washington
   </div>
   <div style="width:7.5%">
   </div>
