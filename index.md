@@ -74,7 +74,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td>Times (PDT)</td><td> </td></tr>
   <tr><td>13:00-13:35</td><td>Welcome Remarks</td></tr>
   <tr><td>13:35-14:05</td><td>Ed Cutrell, Interactive AI for Blind and Low Vision Users</td></tr>
-  <tr><td>14:05-14:35</td><td>Geoffrey Peddle, AIRA:  A company's journey towards AI Remote Assistance</td></tr>
+  <tr><td>14:05-14:35</td><td>Geoffrey Peddle, Aira:  A company's journey towards AI Remote Assistance</td></tr>
   <tr><td>14:35-14:50</td><td>Challenge Overview and Results</td></tr>
   <tr><td>14:50-15:10</td><td>Challenge Winner Talks</td></tr>
   <tr><td>15:10-15:40</td><td>Poster Highlights + Coffee Break</td></tr>
@@ -92,7 +92,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td><a href="https://accessibility-cv.github.io/">"AVA Keypoint Track 1st Solution"</a>.Jiajun Fu</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1vRXoX3ehOcCP8jZuYpdOikZnj4WHoPtV/view?usp=drive_link">"AVA Keypoint Track 2nd Solution: HDIFN: Hierarchical Dilated Fusion Information Network for Pedestrian Keypoints Detection"</a>. Chuchu Xie</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1LJuLilnNYgbd8dKdcEMWisd9IuoUmJu1/view?usp=drive_link">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1hjh8MRWjffycCdM7ZaTrwhdezheOC8CX/view?usp=drive_link">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1hjh8MRWjffycCdM7ZaTrwhdezheOC8CX/view?usp=drive_link">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. Sudha Krishnamurthy, Vimal Bhat, Abhinav Jain</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1xo1O17ihc787ZOcgGTpq-_1FDrzllRxr/view?usp=drive_link">"Building Embodied 3D Foundation Models"</a>.  Yining Hong</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1qKYXGdk3_vLgmqMJqBELkgn310xswRts/view?usp=drive_link">"Integrating Ergonomic Support with Augmented Reality for Elderly Rehabilitation"</a>. Zhenhong (Brad) Lei , Jeanne Xinjun Li</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1fvQ8qDO_R8IteE52Lqsc4NyW4b4eLV0M/view?usp=drive_link">"Motion Diversification Networks"</a>. Hee Jae Kim, Eshed Ohn-Bar</td></tr>
