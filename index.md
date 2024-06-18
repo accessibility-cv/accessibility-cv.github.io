@@ -85,7 +85,10 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </table>
   
 ## Abstracts
-<strong>Coming soon ...</strong>
+<table>
+  <tr><td><a href="https://accessibility-cv.github.io/">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
+  
+</table>
 
 
 
