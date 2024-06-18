@@ -80,13 +80,16 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td>15:10-15:40</td><td>Poster Highlights + Coffee Break</td></tr>
   <tr><td>15:40-16:10</td><td>Dan Parker</td></tr>
   <tr><td>16:10-16:40</td><td>Saqib Shaikh</td></tr>
-  <tr><td>16:40-17:10</td><td>Venkatesh Potluri</td></tr>
+  <tr><td>16:40-17:10</td><td>Venkatesh Potluri: A Paradigm Shift in Nonvisual Programming</td></tr>
   <tr><td>17:10-17:20</td><td>Panel + Concluding Remarks</td></tr>
 </table>
   
 ## Abstracts
 <table>
   <tr><td><a href="https://accessibility-cv.github.io/">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"Building Embodied 3D Foundation Models"</a>.  Yining Hong</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"Integrating Ergonomic Support with Augmented Reality for Elderly Rehabilitation"</a>. Zhenhong (Brad) Lei , Jeanne Xinjun Li</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
   
 </table>
 
