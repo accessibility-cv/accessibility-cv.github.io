@@ -86,10 +86,13 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
 ## Abstracts
 <table>
+  <tr><td><a href="https://accessibility-cv.github.io/">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
   <tr><td><a href="https://accessibility-cv.github.io/">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
   <tr><td><a href="https://accessibility-cv.github.io/">"Building Embodied 3D Foundation Models"</a>.  Yining Hong</td></tr>
   <tr><td><a href="https://accessibility-cv.github.io/">"Integrating Ergonomic Support with Augmented Reality for Elderly Rehabilitation"</a>. Zhenhong (Brad) Lei , Jeanne Xinjun Li</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"HDIFNet: Hierarchically Dilated Information Fusion Network for Pedestrian Detection"</a>. Chuchu Xie</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"Motion Diversification Networks"</a>. Hee Jae Kim, Eshed Ohn-Bar</td></tr>
+  
   
 </table>
 
