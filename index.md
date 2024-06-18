@@ -86,12 +86,16 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
 ## Abstracts
 <table>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Building Embodied 3D Foundation Models"</a>.  Yining Hong</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Integrating Ergonomic Support with Augmented Reality for Elderly Rehabilitation"</a>. Zhenhong (Brad) Lei , Jeanne Xinjun Li</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"HDIFNet: Hierarchically Dilated Information Fusion Network for Pedestrian Detection"</a>. Chuchu Xie</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Motion Diversification Networks"</a>. Hee Jae Kim, Eshed Ohn-Bar</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1cnUpZHeuxSpwK56dUb0O-W9mbtWyU19t/view?usp=drive_link">"AVA Segmentation Track 1st Solution: Synthetic Instance Segmentation with Vision Transformer"</a>.Xiangheng Shan, Huayu Zhang, Jialong Zuo, Nong Sang, Changxin Gao</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"AVA Segmentation Track 2nd Solution"</a>.Xiaoqiang Lu, Licheng Jiao, Xu Liu, Lingling Li, Fang Liu, Wenping Ma, Shuyuan Yang</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1ahK7n8CCRY1avclaTk8B1An4JsSkjaR9/view?usp=sharing">"AVA Segmentation Track 3rd Solution: BEiTv2-Adapter"</a>. Qin Ma, Jinming Chai, Zhongjian Huang</td></tr>
+  <tr><td><a href="https://accessibility-cv.github.io/">"AVA Keypoint Track 1st Solution"</a>.Jiajun Fu</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1vRXoX3ehOcCP8jZuYpdOikZnj4WHoPtV/view?usp=drive_link">"AVA Keypoint Track 2nd Solution: HDIFN: Hierarchical Dilated Fusion Information Network for Pedestrian Keypoints Detection"</a>. Chuchu Xie</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1LJuLilnNYgbd8dKdcEMWisd9IuoUmJu1/view?usp=drive_link">"Disability Representations: Finding Biases in Automatic Image Generation"</a>. Yannis Tevissen</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1hjh8MRWjffycCdM7ZaTrwhdezheOC8CX/view?usp=drive_link">"AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism"</a>. R Sudha Krishnamurthy,  Vimal Bhat, Abhinav Jain</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1xo1O17ihc787ZOcgGTpq-_1FDrzllRxr/view?usp=drive_link">"Building Embodied 3D Foundation Models"</a>.  Yining Hong</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1qKYXGdk3_vLgmqMJqBELkgn310xswRts/view?usp=drive_link">"Integrating Ergonomic Support with Augmented Reality for Elderly Rehabilitation"</a>. Zhenhong (Brad) Lei , Jeanne Xinjun Li</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1fvQ8qDO_R8IteE52Lqsc4NyW4b4eLV0M/view?usp=drive_link">"Motion Diversification Networks"</a>. Hee Jae Kim, Eshed Ohn-Bar</td></tr>
   
   
 </table>
