@@ -220,6 +220,14 @@ Toward building a community of accessibility research in computer vision confere
 
 <div style="display: flex">
   <div style="width:22.5%">
+    <a href="mailto:zhangjim@bu.edu">
+      <img alt="Maolin Wei" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:22.5%">
     <a href="mailto:sgzk@bu.edu">
       <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -230,13 +238,6 @@ Toward building a community of accessibility research in computer vision confere
     <div style="width:7.5%">
   </div>
   
-  <div style="width:22.5%">
-    <a href="mailto:zhangjim@bu.edu">
-      <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
-    Boston University
-  </div>
 
   <div style="width:7.5%">
   </div>
@@ -254,34 +255,7 @@ Toward building a community of accessibility research in computer vision confere
 
   
 ## Challenge
-
-<div style="text-align: justify">
-  
-  <strong>As an updated challenge for 2024, we release the following:</strong>
-  
-  <ol>
-  <li>Training, validation, and testing data, which can be found in <a href="https://drive.google.com/drive/folders/12e-Qom2qQWF7brBu36sIQZWfj8kTBtj-?usp=share_link">this link</a></li>
-    <li>An evaluation server <a href="https://eval.ai/web/challenges/challenge-page/2272/overview">for instance segmentation</a> and <a href="https://eval.ai/web/challenges/challenge-page/2271/overview">for pose estimation.</a></li>
-  </ol>
-  
-  More info on data and submission can be found in the eval.ai links above. Note that the data this year includes both instance segmentation and pose estimation challenge. Moreover, we provide access to temporal history and LiDAR data for each image.
-  
-  <br>
-  The challenge builds on our prior workshop's synthetic instance segmentation benchmark with mobility aids (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
-  
-<div class = "center">
-    <img alt="fig2" src="pics/i1.jpg" >
-    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
-</div>
-  <div class = "center">
-    <img alt="fig2" src="pics/pose_xworld.png" >
-    <p>An example from the pose challenge added in 2023.</p>
-</div>
-  <br>
-  The team with the top-performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> for first place and <b>$300</b> for second place (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge, Special Interest Group on Accessible Computing, and Intel for their support for these awards).
-  <br><br>
-</div>
-
+TBD
  
   
   
