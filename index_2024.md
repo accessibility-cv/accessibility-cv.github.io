@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_2024
 ---
 <style> 
 .center {
