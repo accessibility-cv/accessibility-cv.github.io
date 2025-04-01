@@ -15,67 +15,13 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
-<div style="display: flex">
-    <div style="width:22.5%">
-    <a href="https://www.microsoft.com/en-us/research/people/cutrell/">
-    <img alt="Ed Cutrell" src="pics/EdCutrell.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://www.microsoft.com/en-us/research/people/cutrell/">Ed Cutrell</a><br>
-    Microsoft Research
-  </div>
-  <div style="width:7.5%">
-  </div>
-   
-  <div style="width:22.5%">
-    <a href="https://theblindmachinist.com/about/">
-    <img alt="Dan Parker" src="pics/dan-parker.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://theblindmachinist.com/about/">Dan Parker</a><br>
-    Blind Machinist, World’s Fastest Blind Man
-  </div>
-
-  <div style="width:7.5%">
-  </div>
-   
-  <div style="width:22.5%">
-    <a href="https://www.linkedin.com/in/geoffrey-peddle-40aa14/?originalSubdomain=ca">
-    <img alt="Geoffrey Peddle" src="pics/Geoff_Peddle.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://www.linkedin.com/in/geoffrey-peddle-40aa14/?originalSubdomain=ca">Geoffrey Peddle</a><br>
-    Aira CTO
-  </div>
-
-</div>
-
-<div style="display: flex">
-    <div style="width:22.5%">
-    <a href="https://www.linkedin.com/in/saqibshaikh/">
-    <img alt="Saqib Shaikh" src="pics/SaqibShaikh.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://www.linkedin.com/in/saqibshaikh/">Saqib Shaikh</a><br>
-    Project Lead for Seeing AI at Microsoft
-  </div>
-  <div style="width:7.5%">
-  </div>
-
-  <div style="width:22.5%">
-    <a href="https://venkateshpotluri.me/">
-    <img alt="Venkatesh Potluri" src="pics/venkatesh_pic.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://venkateshpotluri.me/">Venkatesh Potluri</a><br>
-    Ph.D. Candidate at the University of Washington
-  </div>
-  <div style="width:7.5%">
-  </div>
-</div>
+TBD
 
 ## Schedule
 TBD
   
 ## Abstracts
 TBD
-
-
 
 ## Organizers
 <div style="display: flex">
