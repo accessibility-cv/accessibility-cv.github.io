@@ -194,8 +194,8 @@ Toward building a community of accessibility research in computer vision confere
 ## Challenge
 <p>We are excited to announce the following challenges for 2025:  </p>
 <ul>
-  <li><a href="https://eval.ai/web/challenges/challenge-page/2493/overview">3D Human Motion Generation Track</a></li>.
-  <li><a href="https://eval.ai/web/challenges/challenge-page/2491/overview">Navigation Instruction Generation Track</a><li>.
+  <li><a href="https://eval.ai/web/challenges/challenge-page/2493/overview">3D Human Motion Generation Track.</a></li>
+  <li><a href="https://eval.ai/web/challenges/challenge-page/2491/overview">Navigation Instruction Generation Track.</a></li>
 </ul>
   
 <p>Please refer to each challenge website for more details.</p>
