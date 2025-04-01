@@ -17,12 +17,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 # Invited Speakers
 TBD
 
-## Schedule
-TBD
-  
-## Abstracts
-TBD
-
 ## Organizers
 <div style="display: flex">
   <div style="width:22.5%">
