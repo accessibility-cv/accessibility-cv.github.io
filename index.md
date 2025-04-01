@@ -166,14 +166,6 @@ Toward building a community of accessibility research in computer vision confere
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="mailto:zhangjim@bu.edu">
-      <img alt="Maolin Wei" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="mailto:zhangjim@bu.edu">Jimuyang Zhang</a><br>
-    Boston University
-  </div>
-  
-  <div style="width:22.5%">
     <a href="mailto:sgzk@bu.edu">
       <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -185,8 +177,7 @@ Toward building a community of accessibility research in computer vision confere
   </div>
   
 
-  <div style="width:7.5%">
-  </div>
+  
   
   <div style="width:22.5%">
     <a href="mailto:hjkim37@bu.edu">
