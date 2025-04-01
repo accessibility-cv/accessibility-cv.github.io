@@ -237,10 +237,10 @@ Topics of interests by this workshop include, but are not limited to:
     </ol>
 </div>
 
-## Important workshop dates
+## Important workshop dates 
 - Updated challenge release: <strong>3/31/2025</strong>
-- Workshop abstract submission deadline: <strong>6/9/2025</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Challenge submission deadline: <strong>6/8/2025</strong> 
+- Workshop abstract submission deadline: <strong>6/9/2025</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Abstract notification: <strong>6/10/2025</strong>
 - Challenge winner announcement: <strong>6/11/2025</strong>
 
