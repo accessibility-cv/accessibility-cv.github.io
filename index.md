@@ -240,7 +240,7 @@ Topics of interests by this workshop include, but are not limited to:
 
 ## Previous workshops
 <a href="./index_2023">2nd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2023</a><br>
-<a href="./index_2024">3nd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2024</a><br>
+<a href="./index_2024">3rd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2024</a><br>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
