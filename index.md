@@ -16,7 +16,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 # Invited Speakers
 <div style="display: flex">
-    <div style="width:22.5%">
+    <div style="width:28%">
     <a href="https://boleizhou.github.io/">
     <img alt="Bolei Zhou" src="pics/Bolei_Zhou.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -26,7 +26,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://www.cs.utexas.edu/~grauman/">
     <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -38,7 +38,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">
     <img alt="Davide Scaramuzza" src="pics/Davide_Scaramuzza.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -50,7 +50,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 ## Organizers
 <div style="display: flex">
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://eshed1.github.io/">
     <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -61,7 +61,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
     <img alt="Danna Gurari" src="pics/danna_gurari.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -72,12 +72,13 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <div style="width:7.5%">
   </div>
        
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
     <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
-    Carnegie Mellon University and IBM
+    Carnegie Mellon University<br>
+    IBM
   </div>
   
     <div style="width:2.5%">
@@ -86,7 +87,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 <div style="display: flex">
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
     <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -108,7 +109,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
   
-    <div style="width:22.5%">
+    <div style="width:28%">
     <a href="https://make4all.org/">
     <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -124,7 +125,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 <!-- ## Advising committee -->
 
 <!-- <div style="display: flex">
- <div style="width:22.5%">
+ <div style="width:28%">
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
     <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -135,7 +136,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
     <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -190,7 +191,7 @@ Toward building a community of accessibility research in computer vision confere
 ## Challenge Organization
 
 <div style="display: flex">
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="mailto:sgzk@bu.edu">
       <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -204,7 +205,7 @@ Toward building a community of accessibility research in computer vision confere
 
   
   
-  <div style="width:22.5%">
+  <div style="width:28%">
     <a href="mailto:hjkim37@bu.edu">
       <img alt="Hee-Jae Kim" src="pics/HeeJae_Kim.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
