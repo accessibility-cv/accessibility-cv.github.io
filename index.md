@@ -15,7 +15,38 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
-TBD
+<div style="display: flex">
+    <div style="width:22.5%">
+    <a href="https://boleizhou.github.io/">
+    <img alt="Bolei Zhou" src="pics/Bolei_Zhou.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://boleizhou.github.io/">Bolei Zhou</a><br>
+    University of California, Los Angeles
+  </div>
+  <div style="width:7.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.cs.utexas.edu/~grauman/">
+    <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
+    University of Texas at Austin<br>
+    Meta
+  </div>
+
+  <div style="width:7.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">
+    <img alt="Davide Scaramuzza" src="pics/Davide_Scaramuzza.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a><br>
+    University of Zurich
+  </div>
+
+</div>
 
 ## Organizers
 <div style="display: flex">
