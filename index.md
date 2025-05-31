@@ -31,8 +31,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
-    University of Texas at Austin<br>
-    Meta
+    University of Texas at Austin and Meta
   </div>
 
   <div style="width:7.5%">
@@ -77,8 +76,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
-    Carnegie Mellon University<br>
-    IBM
+    Carnegie Mellon University and IBM
   </div>
   
     <div style="width:2.5%">
@@ -98,7 +96,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <div style="width:7.5%">
   </div>
   
-    <div style="width:22.5%">
+    <div style="width:28%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
     <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
