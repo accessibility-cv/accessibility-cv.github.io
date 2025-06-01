@@ -47,6 +47,20 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 </div>
 
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://jpwilliams.net/">
+    <img alt="JP Williams" src="pics/JP_Williams2.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://jpwilliams.net/">JP Williams</a><br>
+    Singer Songwriter and Accessibility Technology Professional
+  </div>
+  <div style="width:7.5%">
+  </div>
+
+
+</div>
+
 ## Organizers
 <div style="display: flex">
   <div style="width:28%">
