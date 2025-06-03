@@ -31,7 +31,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
-    University of Texas at Austin and Meta
+    University of Texas at Austin
   </div>
 
   <div style="width:7.5%">
