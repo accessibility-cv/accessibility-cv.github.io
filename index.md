@@ -14,7 +14,7 @@ layout: default
 The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). Our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers and practitioners.
 </div>
 
-# Invited Speakers
+# Invited SpeakersMore actions
 <div style="display: flex">
     <div style="width:30%">
     <a href="https://boleizhou.github.io/">
@@ -25,7 +25,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   <div style="width:7.5%">
   </div>
-   
+
   <div style="width:30%">
     <a href="https://www.cs.utexas.edu/~grauman/">
     <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -36,7 +36,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
   <div style="width:7.5%">
   </div>
-   
+
   <div style="width:30%">
     <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">
     <img alt="Davide Scaramuzza" src="pics/Davide_Scaramuzza.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -44,11 +44,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a><br>
     University of Zurich
   </div>
-  <div style="width:7.5%">
+
 </div>
 
 <div style="display: flex">
-  <div style="width:30%">
+  <div style="width:22.5%">
     <a href="https://jpwilliams.net/">
     <img alt="JP Williams" src="pics/JP_Williams2.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -57,7 +57,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   <div style="width:7.5%">
   </div>
-
 </div>
 
 ## Organizers
