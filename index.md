@@ -14,8 +14,8 @@ layout: default
 The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). Our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers and practitioners.
 </div>
 
-# Invited SpeakersMore actions
-<div style="display: flex">
+# Invited Speakers
+<div style="display: flex; align-items: flex-start;">
   <div style="width:27.5%">
     <a href="https://boleizhou.github.io/">
     <img alt="Bolei Zhou" src="pics/Bolei_Zhou.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -45,7 +45,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
 </div>
 
-<div style="display: flex">
+<div style="display: flex; align-items: flex-start;">
   <div style="width:27.5%">
     <a href="https://jpwilliams.net/">
     <img alt="JP Williams" src="pics/JP_Williams2.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -66,7 +66,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 ## Organizers
-<div style="display: flex">
+<div style="display: flex; align-items: flex-start;">
   <div style="width:27.5%">
     <a href="https://eshed1.github.io/">
     <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -98,7 +98,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
 </div>
 
-<div style="display: flex">
+<div style="display: flex; align-items: flex-start;">
   <div style="width:27.5%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
     <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
