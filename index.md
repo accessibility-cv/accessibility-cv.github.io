@@ -65,8 +65,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     École des Ponts ParisTech
   </div>
   <div style="width:7.5%">
-</div>
-
 
 </div>
 
