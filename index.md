@@ -16,7 +16,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 # Invited SpeakersMore actions
 <div style="display: flex">
-    <div style="width:30%">
+  <div style="width:30%">
     <a href="https://boleizhou.github.io/">
     <img alt="Bolei Zhou" src="pics/Bolei_Zhou.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -33,7 +33,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
     University of Texas at Austin
   </div>
-
   <div style="width:7.5%">
   </div>
 
@@ -44,11 +43,10 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a><br>
     University of Zurich
   </div>
-
 </div>
 
 <div style="display: flex">
-  <div style="width:22.5%">
+  <div style="width:30%">
     <a href="https://jpwilliams.net/">
     <img alt="JP Williams" src="pics/JP_Williams2.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -56,6 +54,14 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     Singer Songwriter and Accessibility Technology Professional
   </div>
   <div style="width:7.5%">
+  </div>
+
+  <div style="width:30%">
+    <a href="https://gulvarol.github.io/#page-top">
+    <img alt="JP Williams" src="pics/Gül_Varol.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://gulvarol.github.io/#page-top">Gül Varol</a><br>
+    École des Ponts ParisTech
   </div>
 </div>
 
@@ -68,7 +74,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <a href="https://eshed1.github.io/">Eshed Ohn-Bar</a><br>
     Boston University
   </div>
-  
   <div style="width:7.5%">
   </div>
    
@@ -79,8 +84,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
     University of Colorado Boulder
   </div>
-  
-    <div style="width:7.5%">
+  <div style="width:7.5%">
   </div>
        
   <div style="width:30%">
@@ -90,10 +94,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
     Carnegie Mellon University and IBM
   </div>
-  
-    <div style="width:7.5%">
+  <div style="width:7.5%">
   </div>
-
 </div>
 
 <div style="display: flex">
@@ -105,29 +107,26 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     University of Maryland
   </div>
   
-    <div style="width:7.5%">
+  <div style="width:7.5%">
   </div>
   
-    <div style="width:30%">
+  <div style="width:30%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
     <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
     Carnegie Mellon University
   </div>
-
   <div style="width:7.5%">
   </div>
   
-    <div style="width:30%">
+  <div style="width:30%">
     <a href="https://make4all.org/">
     <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://make4all.org/">Jennifer Mankoff</a><br>
     University of Washington
   </div>
-
-
 </div>
   
 
