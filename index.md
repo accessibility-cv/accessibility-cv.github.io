@@ -56,7 +56,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     Singer Songwriter and Accessibility Technology Professional
   </div>
   <div style="width:7.5%">
-    
+  </div>
+  
   <div style="width:30%">
     <a href="https://gulvarol.github.io/#page-top">
     <img alt="JP Williams" src="pics/Gül_Varol.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -64,8 +65,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <a href="https://gulvarol.github.io/#page-top">Gül Varol</a><br>
     École des Ponts ParisTech
   </div>
-  <div style="width:7.5%">
-
 </div>
 
 ## Organizers
