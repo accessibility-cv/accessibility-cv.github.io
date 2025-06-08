@@ -233,7 +233,7 @@ Toward building a community of accessibility research in computer vision confere
 </div>
 
   
-## Challenge
+## Challenges
 <p>We are excited to announce the following challenges for 2025:  </p>
 <ul>
   <li><a href="https://eval.ai/web/challenges/challenge-page/2493/overview">3D Human Motion Generation Track.</a></li>
@@ -279,14 +279,14 @@ Topics of interests by this workshop include, but are not limited to:
     </ol>
 </div>
 
-## Important workshop dates 
+## Important Workshop Dates 
 - Updated challenge release: <strong>3/31/2025</strong>
 - Challenge submission deadline: <strong>6/9/2025</strong> 
 - Workshop abstract submission deadline: <strong>6/9/2025</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Abstract notification: <strong>6/10/2025</strong>
 - Challenge winner announcement: <strong>6/11/2025</strong>
 
-## Previous workshops
+## Previous Workshops
 <a href="./index_2023">2nd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2023</a><br>
 <a href="./index_2024">3rd AVA: Accessibility, Vision, and Autonomy Meet, CVPR 2024</a><br>
 
