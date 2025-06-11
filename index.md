@@ -87,7 +87,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td><a href="https://drive.google.com/file/d/1J76evxvT6v-1Z0kQXR-WArzPoQIQSah5/view?usp=drive_link">"AVA in Action: Developing a Guide Dog Robot for Blind and Low-Vision People"</a>. Hochul Hwang, Krisha Adhikari, Parth Goel, Anh Nguyen, Satya Shodhaka, Shangqun Yu, Trung M Dang, Ken Suzuki, Georges Chebly, Peter White, Joydeep Biswas, Nicholas A Giudice, Sunghoon Ivan Lee, Donghyun Kim</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1CD2IDgq1FSz1DWWPp4GcIR3eLPDkThvT/view?usp=drive_link">"BlindWays: An Urban Blind Navigation Dataset"</a>. Hee Jae Kim</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1WW2sjxNxo2ntzGop7huGWEniFzEZEJGD/view?usp=drive_link">"Safe Active Medical Imaging: Theoretical Foundations for Uncertainty-Guided Acquisition under Safety Constraints"</a>. Dharini Raghavan</td></tr>
-  <tr><td><a href="https://accessibility-cv.github.io/">"Video-based Assistive Instruction Generation Benchmark"</a>. Zhongkai Shangguan</td></tr>   
+  <tr><td><a href="https://docs.google.com/presentation/d/1_f_Rbx-_uHP1kh0Dp3sthU4upf5Na5nHKOwgwO_g51I/edit?usp=sharing">"Video-based Assistive Instruction Generation Benchmark"</a>. Zhongkai Shangguan</td></tr>   
   <tr><td>"Semi-Autonomous Bike for the Blind". Eshed Ohn-Bar</td></tr> 
 </table>
 
