@@ -79,11 +79,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 ## Abstracts
 <table>
-  <tr><td>"AVA 3D Human Motion Generation Track - 1st Place". Yang Liu and Qingming Huang, University of Chinese Academy of Sciences; Qianqian Xu, Peisong Wen, and Siran Dai, Chinese Academy of Sciences</td></tr>
-  <tr><td>"AVA 3D Human Motion Generation Track - 2nd Place". Lingling Zuo and Yang Yang, Nanjing University of Science and Technology</td></tr>
-  <tr><td>"AVA 3D Human Motion Generation Track - 3rd Place". Prajwal Koirala, Iowa State University</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1Jxpy4bSv881jXrxHZkc2LUPg5CPgLSpB/view?usp=sharing">"AVA Navigation Instruction Generation Track - 1st Place: Automated Context-Aware Navigation Support for Individuals with Visual Impairment Using Multimodal Language Models in Urban Environments"</a>. Alton Chao, Erika Maquiling, Edmund Chao, Shyam Gupta, Roshan Sanjeev, and Ross Greer, Mi3 Lab at UC Merced (UCM); Tonko Bossen, Aalborg University</td></tr>
-  <tr><td>"AVA Navigation Instruction Generation Track - 2nd Place". Shangjian Zhong, City University of Hong Kong</td></tr>
+  <tr><td>"AVA 3D Human Motion Generation Track - 1st Place". Yang Liu, Qingming Huang, Qianqian Xu, Peisong Wen, Siran Dai</td></tr>
+  <tr><td>"AVA 3D Human Motion Generation Track - 2nd Place". Lingling Zuo, Yang Yang</td></tr>
+  <tr><td>"AVA 3D Human Motion Generation Track - 3rd Place". Prajwal Koirala</td></tr>
+  <tr><td><a href="https://drive.google.com/file/d/1Jxpy4bSv881jXrxHZkc2LUPg5CPgLSpB/view?usp=sharing">"AVA Navigation Instruction Generation Track - 1st Place: Automated Context-Aware Navigation Support for Individuals with Visual Impairment Using Multimodal Language Models in Urban Environments"</a>. Alton Chao, Erika Maquiling, Edmund Chao, Shyam Gupta, Roshan Sanjeev, Ross Greer, Tonko Bossen</td></tr>
+  <tr><td>"AVA Navigation Instruction Generation Track - 2nd Place". Shangjian Zhong</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1J76evxvT6v-1Z0kQXR-WArzPoQIQSah5/view?usp=drive_link">"AVA in Action: Developing a Guide Dog Robot for Blind and Low-Vision People"</a>. Hochul Hwang</td></tr>
   <tr><td><a href="https://arxiv.org/pdf/2412.05277">"BlindWays: An Urban Blind Navigation Dataset"</a>. Hee Jae Kim</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1WW2sjxNxo2ntzGop7huGWEniFzEZEJGD/view?usp=drive_link">"Safe Active Medical Imaging: Theoretical Foundations for Uncertainty-Guided Acquisition under Safety Constraints"</a>. Dharini Raghavan</td></tr>
