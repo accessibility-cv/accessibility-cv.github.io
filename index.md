@@ -15,25 +15,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
-<div style="width:28%">
-    <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">
-    <img alt="Davide Scaramuzza" src="pics/Davide_Scaramuzza.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a><br>
-    University of Zurich
-  </div>
-</div>
-  <div style="width:28%">
-    <a href="https://www.cs.utexas.edu/~grauman/">
-    <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
-    University of Texas at Austin
-  </div>
-  <div style="width:7.5%">
-  </div>
-
-  
 <div style="display: flex; align-items: flex-start;">
   <div style="width:28%">
     <a href="https://boleizhou.github.io/">
@@ -45,6 +26,24 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:7.5%">
   </div>
 
+  <div style="width:28%">
+    <a href="https://www.cs.utexas.edu/~grauman/">
+    <img alt="Kristen Grauman" src="pics/Kristen_Grauman.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a><br>
+    University of Texas at Austin
+  </div>
+  <div style="width:7.5%">
+  </div>
+
+  <div style="width:28%">
+    <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">
+    <img alt="Davide Scaramuzza" src="pics/Davide_Scaramuzza.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a><br>
+    University of Zurich
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start;">
   <div style="width:28%">
