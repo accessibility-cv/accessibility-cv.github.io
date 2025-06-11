@@ -69,11 +69,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 <table>
   <tr><td>Times (CDT)</td><td> </td></tr>
   <tr><td>13:00-13:30</td><td>Challenge Results</td></tr>
-  <tr><td>13:30-14:00</td><td>Davide Scaramuzza</td></tr>
-  <tr><td>14:00-14:30</td><td>Kristen Grauman</td></tr>
+  <tr><td>13:30-14:00</td><td>Davide Scaramuzza - Visual Assistance for Blind People</td></tr>
+  <tr><td>14:00-14:30</td><td>Kristen Grauman - Video Understanding for Accessible Skill Learning</td></tr>
   <tr><td>14:30-15:30</td><td>Posters and Break</td></tr>
-  <tr><td>15:30-16:00</td><td>Gül Varol</td></tr>
-  <tr><td>16:00-16:30</td><td>Bolei Zhou</td></tr>
+  <tr><td>15:30-16:00</td><td>Gül Varol - Towards Open-Vocabulary Sign Language Translation</td></tr>
+  <tr><td>16:00-16:30</td><td>Bolei Zhou - AI-assisted Micro-mobility through Large-scale Real2Sim Simulation</td></tr>
   <tr><td>16:30-17:00</td><td>JP Williams</td></tr>
 </table>
 
