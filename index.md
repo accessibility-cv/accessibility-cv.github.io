@@ -74,7 +74,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td>14:30-15:30</td><td>Posters and Break</td></tr>
   <tr><td>15:30-16:00</td><td>Gül Varol - Towards Open-Vocabulary Sign Language Translation</td></tr>
   <tr><td>16:00-16:30</td><td>Bolei Zhou - AI-assisted Micro-mobility through Large-scale Real2Sim Simulation</td></tr>
-  <tr><td>16:30-17:00</td><td>JP Williams</td></tr>
+  <tr><td>16:30-17:00</td><td>JP Williams - The Power of an Idea</td></tr>
 </table>
 
 ## Organizers
